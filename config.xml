@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.blazen.businessapp" version="1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" versionCode="1">
-  <name>BusinessApp - shared on codelist.cc</name>
+<widget id="com.hyperspace.kingmantransportapp" version="1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" versionCode="3.0.0">
+  <name>Kingman Transport</name>
   <description>
-            A Template for Business.
+            Business App
         </description>
-  <author email="info@wohlig.com" href="http://www.wohlig.com/">
-            wohlig
+  <author email="hasibul.amin.hemel@gmail.com" href="http://www.ihemel.net/">
+            Hemel
         </author>
   <content src="index.html"/>
   <access origin="*"/>
